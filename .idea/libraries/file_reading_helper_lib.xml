@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="file reading helper lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/file reading helper lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/file reading helper lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/file reading helper lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/file reading helper lib" recursive="false" type="SOURCES" />
+  </library>
+</component>

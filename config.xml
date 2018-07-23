@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config> 
+  <AppPackage>il.co.mintapp.buyme</AppPackage>
+  <AppActivity>il.co.mintapp.buyme.activities.common.SplashScreen</AppActivity>
+  <ReportPath>C:\Users\noam\mobile project\reports\reports.html</ReportPath>
+</config>
